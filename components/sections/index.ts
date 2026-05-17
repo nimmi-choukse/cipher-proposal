@@ -1,0 +1,9 @@
+export { ContactSection } from "./ContactSection";
+export { DeliverablesSection } from "./DeliverablesSection";
+export { HeroSection } from "./HeroSection";
+export { IntroductionSection } from "./IntroductionSection";
+export { InvestmentSection } from "./InvestmentSection";
+export { MethodologySection } from "./MethodologySection";
+export { ObjectivesSection } from "./ObjectivesSection";
+export { ScopeSection } from "./ScopeSection";
+export { TimelineSection } from "./TimelineSection";
