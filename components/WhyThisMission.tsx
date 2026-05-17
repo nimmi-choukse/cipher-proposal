@@ -165,7 +165,7 @@ export default function WhyThisMission() {
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
-            className="fixed inset-0 z-[9999] bg-emerald-950/95 flex items-center justify-center"
+            className="absolute inset-0 z-50 bg-emerald-950/95 flex items-center justify-center"
           >
             <motion.div
               animate={{
